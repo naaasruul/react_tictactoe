@@ -11,3 +11,5 @@ Building this Tic-Tac-Toe game in React was more than just a coding exercise—i
 - **Lifting State Up** – Managing shared state effectively between parent and child components.  
 
 This project was a great way to sharpen my React skills while keeping things fun! 🚀
+
+https://tictactoebynas.netlify.app/ GO CHECK IT OUT!
